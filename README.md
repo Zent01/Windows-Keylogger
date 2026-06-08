@@ -1,5 +1,5 @@
 # Windows System Monitor Tool
-##⚠️ Educational Purpose Only
+##⚠️ Educational Purpose Only##
 
 This code is a system monitoring and logging tool created for educational and research purposes. It demonstrates various Windows system programming concepts including:
 
@@ -21,7 +21,7 @@ Persistence mechanisms
 
 Anti-analysis techniques
 
-🔧 Technical Features
+#🔧 Technical Features
 System Monitoring
 Keylogging: Records keyboard input with window context
 
