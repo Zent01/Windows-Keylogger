@@ -33,7 +33,7 @@ Webcam Capture: Takes photos on Tab key press with anti-flood protection
 
 Clipboard Monitoring: Tracks copied content with 2-second throttling
 
-Persistence
+##Persistence##
 Copies itself to %APPDATA%\Microsoft\Windows\SysInternal\
 
 Adds shortcut to Windows Startup folder
@@ -42,17 +42,17 @@ Creates Registry Run key (for .exe versions only)
 
 Hides files using attrib +h
 
-Anti-Analysis Evasion
+##Anti-Analysis Evasion##
 Sandbox Detection: Checks for VM indicators, low RAM, low disk space, low process count
 
 Process Monitoring: Looks for analysis tools (Task Manager, Process Hacker, Wireshark, antivirus)
 
 Periodic Checks: Continuous scanning every 10-12 seconds
 
-Data Exfiltration
+##Data Exfiltration##
 Email Reports: Sends compressed logs (ZIP) via Gmail SMTP
 
-⚙️ Trigger Mechanisms
+# ⚙️ Trigger Mechanisms
 Action	Trigger	Cooldown
 Screenshot	Mouse left click	7 seconds
 Webcam	Tab key	10 seconds
