@@ -21,7 +21,7 @@ Persistence mechanisms
 
 Anti-analysis techniques
 
-#🔧 Technical Features
+# 🔧 Technical Features
 System Monitoring
 Keylogging: Records keyboard input with window context
 
