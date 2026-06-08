@@ -57,3 +57,5 @@ Anti-analysis techniques
 - 
 - Storage Management: Auto-deletes oldest files when exceeding 1000MB
 
+# 🚫 Disclaimer
+This code is for educational purposes only. Unauthorized monitoring of computer systems without consent is illegal in most jurisdictions. Use only on systems you own or have explicit permission to test.
